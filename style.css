@@ -1,0 +1,115 @@
+body {
+	background-color: gainsboro
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  background: gainsboro;
+}
+li {
+	display: block;
+    color: gainsboro;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar-default {
+    background-color: gainsboro;
+    border-style: solid;
+    border-color: black;
+}
+.brand-name {
+font-family: 'Josefin Slab', serif;
+font-size: 47px;
+font-weight: bold;
+color: #444;
+text-decoration: blink ;
+}
+
+.nav-container {
+padding-top: 8px;
+}
+
+.navbar-custom {
+font-size: 20px;
+background-color: #FFF;
+
+}
+.navbar-default .navbar-brand {
+    color: black;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #6495ED;
+}
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #6495ED;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: black;
+    background-color: gainsboro;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: green;
+    background-color: #d65c14;
+}
+.navbar-default .navbar-nav > .dropdown > a .caret {
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+}
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #8a0e0b;
+    border-bottom-color: #8a0e0b;
+}
+.navbar-default .navbar-nav > .open > a .caret,
+.navbar-default .navbar-nav > .open > a:hover .caret,
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: #8a0e0b;
+    border-bottom-color: #8a0e0b;
+}
+.navbar-default .navbar-toggle {
+    border-color: #d65c14;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #d65c14;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+.navbar-brand {
+	font-style: italic;
+	font-weight: bold;
+	font-stretch: extra-expanded;
+	font-size: 200%;
+}
+
+.well {
+	background-color: gainsboro;
+	border-color: black;
+}
+
+.page-footer{
+	border: solid;
+	border-color: : black;
+}
+.container {
+	background-color:;
+}
+.center-img {
+  display: block;
+  margin: 0 auto;
+  border:groove;
+}
